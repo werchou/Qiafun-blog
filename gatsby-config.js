@@ -17,7 +17,7 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'WeiweiZhou',
+    title: 'Wei',
     description:
       'A Personal Website for life and coding.',
     siteUrl: 'https://qiafan.fun',
